@@ -2,3 +2,5 @@ git training
 basic
 
 git commit
+
+diff
